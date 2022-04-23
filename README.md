@@ -1,10 +1,7 @@
 
 ![image](https://user-images.githubusercontent.com/96772074/164947384-52a5d6bd-0005-4fad-bfdc-52be3713d278.png)
 
-Hi there 👋 My name is Lukas Eber
-===========================
 
-C# .NET Developer
 -----------------
 
 I´ve been learning to code for 1/2 year. My most used programming language is C#, and I am currently learning the Xamarin framework.
