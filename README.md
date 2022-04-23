@@ -1,5 +1,5 @@
 
-![Header](./github-header-image)
+<img src="github-header-image"/>" 
 Hi there 👋 My name is Lukas Eber
 ===========================
 
