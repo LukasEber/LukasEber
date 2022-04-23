@@ -6,7 +6,7 @@ Hi 👋 My name is Lukas Eber
 C# .NET Developer
 -----------------
 
-I´ve been learning to code oor 1/2 year. My most used programming language is C#, and I am currently learning the Xamarin framework.
+I´ve been learning to code for 1/2 year. My most used programming language is C#, and I am currently learning the Xamarin framework.
 
 * 🌍  I'm based in Germany, Thuringia
 * 🖥️  See my portfolio at [github.com/LukasEber](http://github.com/LukasEber)
