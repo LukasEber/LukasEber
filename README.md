@@ -4,12 +4,12 @@
 
 -----------------
 
-I´ve been learning to code for 1/2 year. My most used programming language is C#, and I am currently learning the Xamarin framework.
+I´ve been learning to code for about one year. My most used programming language is C#, and I am currently learning the .NET MAUI framework.
 
 * 🌍  I'm based in Germany, Thuringia
 * 🖥️  See my portfolio at [github.com/LukasEber](http://github.com/LukasEber)
 * ✉️  You can contact me at [lukaseber9@gmail.com](mailto:lukaseber9@gmail.com)
-* 🧠  I'm learning Xamarin and .NET MAUI
+* 🧠  I'm learning .NET MAUI
 
 ### Skills
 
