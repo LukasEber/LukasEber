@@ -46,11 +46,11 @@
 
 <b>My GitHub Stats</b>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lukaseber&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact" alt="lukaseber" /></p></br>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lukaseber&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact" alt="lukaseber" /></p></br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lukaseber&show_icons=true&theme=dark&hide_border=true&locale=en" alt="lukaseber" /></p></br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lukaseber&theme=dark" alt="lukaseber" /></p></br>
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lukaseber&theme=dark&hide_border=true" alt="lukaseber" /></p></br>
 
 
 
