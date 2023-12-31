@@ -12,7 +12,7 @@
 * 🧠  I'm currently learning how to build cross platform business applications using .NET
 * 💬 Ask me about building websites with Blazor and cross platform apps based on .NET MAUI running on Windows, MacOS, iOS, Android 
 
-### Skills
+### My Techstack
 <p align="left">
 <b>Design</b></br>
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
