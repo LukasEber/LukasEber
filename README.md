@@ -1,57 +1,54 @@
 
-![image](https://user-images.githubusercontent.com/96772074/164947384-52a5d6bd-0005-4fad-bfdc-52be3713d278.png)
+![](https://github.com/LukasEber/LukasEber/assets/96772074/f42f020f-30eb-4908-8b99-637b4dd414e3)
 
 
 -----------------
 
 
+# Hello! 👋
+
+I'm Lukas, a freelance .NET Developer based in Germany, dedicated to delivering high-quality software solutions.
+
+✉️ Reach out to me at [lukas.eber@outlook.de](mailto:lukas.eber@outlook.de)  
+💬 Ask me about developing robust websites using Blazor and crafting cross-platform apps with .NET MAUI for seamless experiences on Windows, MacOS, iOS, and Android.  
+
+# What I Offer
+
+I'm passionate about delivering high quality software solutions tailored to your business needs. Here's what you can expect:
+
+## Key Services
+
+1. **Custom Software Development:** Crafting robust and scalable solutions to address your unique business challenges.
+
+2. **Web Development with Blazor:** Creating fast and intuitive webapps using cutting-edge technologies.
+
+3. **Cross-Platform App Development:** Ensuring a consistent user experience across Windows, MacOS, iOS, and Android.
+
+## Technical Expertise
+
+4. **Quality Code:** Committed to delivering high-quality, maintainable, and scalable code.
+
+5. **C# and .NET Mastery:** Leveraging C# and the .NET framework for efficient and reliable applications.
+
+6. **Database Management:** Proficient in Microsoft SQL Server for robust data management.
+
+7. **GraphQL Integration:** Implementing flexible and efficient data querying for enhanced application performance.
+
+8. **Automated Testing:** Ensuring software reliability with tools like Selenium throughout the development lifecycle.
+
+9. **Cloud Computing:** Integrating applications seamlessly into scalable and secure cloud environments, including AWS, Ionos and Azure.
+
+## Client-Centric Approach
+
+10. **Clear Communication:** Providing regular updates and maintaining transparent communication throughout the project.
+
+11. **Collaborative Project Management:** Dedicated to a collaborative and client-centric approach to project execution.
 
 
-* 🌍  I'm a passionate .NET developer based in Germany
-* 🖥️  See my portfolio at [github.com/LukasEber](http://github.com/LukasEber)
-* ✉️  You can contact me at [lukas.eber@outlook.de](mailto:lukas.eber@outlook.de)
-* 🧠  I'm currently learning how to build cross platform business applications using .NET
-* 💬 Ask me about building websites with Blazor and cross platform apps based on .NET MAUI running on Windows, MacOS, iOS, Android 
-
-### My Techstack
-<p align="left">
-<b>Design</b></br>
-<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
-<a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="36" height="36" alt="Premiere Pro" /></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a></br> </br>
-<b>Development</b></br>
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
-<a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a>
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a>
-<a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a></br></br>
-<b>More</b></br>
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-<a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
-<a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/></a></br></br></br>
-</p>
-
-
-### Connect with me
-
-<p align="left"> 
-  <a href="https://www.dev.to/lukaseber" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a> 
-  <a href="https://www.github.com/LukasEber" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
-  <a href="https://stackoverflow.com/users/20782891" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a>
-  <a href="https://linkedin.com/in/lukaseber" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lukaseber" height="30" width="40" /></a>
-</p></br></br>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lukaseber&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact" alt="lukaseber" /></p></br>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lukaseber&show_icons=true&theme=dark&hide_border=true&locale=en" alt="lukaseber" /></p></br>
-
-<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lukaseber&theme=dark&hide_border=true" alt="lukaseber" /></p></br>
+# **Intrigued by what you've read?** 
+Let's chat about how I can bring value to your project.   
+[Drop me a message](mailto:lukas.eber@outlook.de) or [connect with me on LinkedIn](https://linkedin.com/in/lukaseber).   
+I'm eager to learn more about your goals and explore potential collaboration.
 
 
 
