@@ -39,5 +39,3 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 </p>
 
 ---
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lukaseber&show_icons=true&theme=dark&locale=en" alt="lukaseber" /></p>
