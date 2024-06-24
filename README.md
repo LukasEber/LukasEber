@@ -40,9 +40,4 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ---
 
-### 🔥 &nbsp; My Stats :
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lukaseber&show_icons=true&theme=dark&locale=en&layout=compact" alt="lukaseber" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lukaseber&show_icons=true&theme=dark&locale=en" alt="lukaseber" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lukaseber&theme=dark" alt="lukaseber" /></p>
